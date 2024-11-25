@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "image":"https://i.ibb.co.com/K0qgpkd/food1.png",
+        "name":"vegetables burger",
+        "para":"Barbecue Italian cuisine pizza"
+    },
+    {
+        "id":2,
+        "image":"https://i.ibb.co.com/yBvcM1L/food2.png",
+        "name":"Spacial Pizza ",
+        "para":"Barbecue Italian cuisine pizza"
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co.com/1zDQF7w/food3.png",
+        "name":"Spacial French fries ",
+        "para":"Barbecue Italian cuisine"
+    },
+    {
+        "id":4,
+        "image":"https://i.ibb.co.com/Dwp03fw/food4.png",
+        "name":"Cuisine Chicken",
+        "para":"Japanese Cuisine Chicken"
+    }
+]
